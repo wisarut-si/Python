@@ -8,11 +8,11 @@
       "payment_status": "Success",
       "code": "CCOD",
       "type": "Credit Card On Delivery",
-      "date": "2021-06-05T00:38:30+00:00",
+      "date": "2021-06-05T05:03:54+00:00",
       "ref_no": "",
       "credit_card_no": "",
       "merchant_id": "",
-      "customer_pay_amt": 2528.5
+      "customer_pay_amt": 2154
     }
   ],
   "full_tax_invoice": {
@@ -25,108 +25,75 @@
   "purchase_orders": null,
   "billing_address": {
     "branch_name": null,
-    "company_name": "N/A",
+    "company_name": null,
     "customer": {
-      "first_name": "อัญชนี",
+      "first_name": "วันวิสาข์",
       "middle_name": "",
-      "last_name": "ทวีวิเสสานนท์"
+      "last_name": "บุศย์ประยูร"
     },
-    "address_line1": "เลขที่ 15 หมู่ - หมู่บ้าน/อาคาร สวัสดิการนายทหาร ซอย รามอินทรา61แยก7 ถนน รามอินทรา",
+    "address_line1": "เลขที่ 199/93 หมู่บ้าน/อาคาร สีวลี สุวรรณภูมิ ซอย 1/3 ",
     "address_line2": "",
-    "building": "บ้าน",
-    "district": "บางเขน",
-    "sub_district": "ท่าแร้ง",
-    "city": "Bangkok",
-    "province": "กรุงเทพมหานคร",
-    "zip_code": "10230",
+    "building": "",
+    "district": "บางพลี",
+    "sub_district": "บางแก้ว",
+    "city": "N/A",
+    "province": "สมุทรปราการ",
+    "zip_code": "10540",
     "country": "TH",
-    "phone_no": "0636942951",
-    "email": "anchanee.th@gmail.com"
+    "phone_no": "0986898511",
+    "email": "Wanwisa.kitty@gmail.com"
   },
   "shipping_address": {
     "branch_name": null,
     "company_name": "",
     "customer": {
-      "first_name": "อัญชนี",
+      "first_name": "วันวิสาข์",
       "middle_name": "",
-      "last_name": "ทวีวิเสสานนท์"
+      "last_name": "บุศย์ประยูร"
     },
-    "address_line1": "เลขที่บ้าน/อาคาร 15 หมู่ - หมู่บ้าน/อาคาร สวัสดิการนายทหาร ซอย รามอินทรา61แยก7 ถนน รามอินทรา",
+    "address_line1": "เลขที่บ้าน/อาคาร 199/93 หมู่บ้าน/อาคาร สีวลี สุวรรณภูมิ ซอย 1/3 ",
     "address_line2": "",
-    "building": "บ้าน",
-    "district": "บางเขน",
-    "sub_district": "ท่าแร้ง",
-    "city": "Bangkok",
-    "province": "กรุงเทพมหานคร",
-    "zip_code": "10230",
+    "building": "",
+    "district": "บางพลี",
+    "sub_district": "บางแก้ว",
+    "city": "n/a",
+    "province": "สมุทรปราการ",
+    "zip_code": "10540",
     "country": "TH",
-    "phone_no": "0636942951",
-    "email": "anchanee.th@gmail.com"
+    "phone_no": "0986898511",
+    "email": "Wanwisa.kitty@gmail.com"
   },
   "details": [
     {
       "market_unit_th": "",
       "market_unit_en": "",
-      "sku": "8850357001333",
+      "sku": "8850124044280",
       "is_exclude": false,
-      "short_name_en": "Maboonkrong 4 Hearty Rice 1kg.",
-      "short_name_th": "มาบุญครองข้าว4พัฒน์ 1กก.",
+      "short_name_en": "Nescafe Gold Premium Instant CoffeeDoy Pack 180g.",
+      "short_name_th": "เนสกาแฟโกลด์กาแฟสำเร็จรูปพรีเมี่ยมถุงตั้ง 180กรัม",
       "is_vat": true,
       "qty_unit_th": "ชิ้น",
       "qty_unit_en": "pcs",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850357001333_1_1.jpg",
-      "full_price": 140,
+      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850124044280_e3-03-2020.jpg",
+      "full_price": 252,
       "vat_rate": 7,
       "lines": [
         {
-          "line_id": "21272748",
-          "line_number": 1242,
-          "sale_price": 139,
-          "normal_price": 140,
-          "vat_amt": 4.29,
-          "item_discount_amt": 73.39,
+          "line_id": "21282823",
+          "line_number": 1,
+          "sale_price": 252,
+          "normal_price": 252,
+          "vat_amt": 15.02,
+          "item_discount_amt": 22.36,
           "redeem_amt": 0,
-          "net_amt": 61.32,
+          "net_amt": 214.62,
           "discounts": [
             {
-              "rule_id": 448597,
+              "rule_id": 432805,
               "rule_priority": 0,
-              "discount_amt": 69.5,
-              "vat_amt": 4.54,
-              "net_amt": 64.96
-            },
-            {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 3.89,
-              "vat_amt": 0.25,
-              "net_amt": 3.64
-            }
-          ]
-        },
-        {
-          "line_id": "21272748",
-          "line_number": 1243,
-          "sale_price": 139,
-          "normal_price": 140,
-          "vat_amt": 4.29,
-          "item_discount_amt": 73.39,
-          "redeem_amt": 0,
-          "net_amt": 61.32,
-          "discounts": [
-            {
-              "rule_id": 448597,
-              "rule_priority": 0,
-              "discount_amt": 69.5,
-              "vat_amt": 4.55,
-              "net_amt": 64.95
-            },
-            {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 3.89,
-              "vat_amt": 0.26,
-              "net_amt": 3.63
+              "discount_amt": 22.36,
+              "vat_amt": 1.46,
+              "net_amt": 20.9
             }
           ]
         }
@@ -136,125 +103,40 @@
         "qty_pack": 0,
         "product_status": "A",
         "exclusive_flag": false,
-        "brand_code": "01474",
+        "brand_code": "01620",
         "is_weight_item": false
       }
     },
     {
       "market_unit_th": "",
       "market_unit_en": "",
-      "sku": "8851989064789",
+      "sku": "8850086135606",
       "is_exclude": false,
-      "short_name_en": "D Nee Clean and Fresh Concentrated Liquid Detergent Organic Rosemary 600ml.",
-      "short_name_th": "ดีนี่คลีนแอนด์เฟรชผลิตภัณฑ์ซักผ้าชนิดน้ำสูตรเข้มข้นออร์แกนิคโรสแมรี่ 600มล.",
+      "short_name_en": "Ovaltine Malt Beverage Chocolate 560g.",
+      "short_name_th": "โอวัลตินเครื่องดื่มมอลต์รสช็อกโกแลต 560กรัม",
       "is_vat": true,
-      "qty_unit_th": "ชิ้น",
-      "qty_unit_en": "pcs",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8851989064789.jpg",
-      "full_price": 92,
+      "qty_unit_th": "แพค",
+      "qty_unit_en": "pack",
+      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850086135606_e11-12-2018.jpg",
+      "full_price": 116,
       "vat_rate": 7,
       "lines": [
         {
-          "line_id": "21272749",
-          "line_number": 1244,
-          "sale_price": 92,
-          "normal_price": 92,
-          "vat_amt": 2.84,
-          "item_discount_amt": 48.58,
+          "line_id": "21282824",
+          "line_number": 2,
+          "sale_price": 116,
+          "normal_price": 116,
+          "vat_amt": 6.92,
+          "item_discount_amt": 10.29,
           "redeem_amt": 0,
-          "net_amt": 40.58,
+          "net_amt": 98.79,
           "discounts": [
             {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 2.58,
-              "vat_amt": 0.16,
-              "net_amt": 2.42
-            },
-            {
-              "rule_id": 448671,
+              "rule_id": 432805,
               "rule_priority": 0,
-              "discount_amt": 46,
-              "vat_amt": 3,
-              "net_amt": 43
-            }
-          ]
-        },
-        {
-          "line_id": "21272749",
-          "line_number": 1245,
-          "sale_price": 92,
-          "normal_price": 92,
-          "vat_amt": 2.84,
-          "item_discount_amt": 48.58,
-          "redeem_amt": 0,
-          "net_amt": 40.58,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 2.58,
-              "vat_amt": 0.16,
-              "net_amt": 2.42
-            },
-            {
-              "rule_id": 448671,
-              "rule_priority": 0,
-              "discount_amt": 46,
-              "vat_amt": 3,
-              "net_amt": 43
-            }
-          ]
-        },
-        {
-          "line_id": "21272749",
-          "line_number": 1246,
-          "sale_price": 92,
-          "normal_price": 92,
-          "vat_amt": 2.84,
-          "item_discount_amt": 48.58,
-          "redeem_amt": 0,
-          "net_amt": 40.58,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 2.58,
-              "vat_amt": 0.16,
-              "net_amt": 2.42
-            },
-            {
-              "rule_id": 448671,
-              "rule_priority": 0,
-              "discount_amt": 46,
-              "vat_amt": 3,
-              "net_amt": 43
-            }
-          ]
-        },
-        {
-          "line_id": "21272749",
-          "line_number": 1247,
-          "sale_price": 92,
-          "normal_price": 92,
-          "vat_amt": 2.84,
-          "item_discount_amt": 48.57,
-          "redeem_amt": 0,
-          "net_amt": 40.59,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 2.57,
-              "vat_amt": 0.19,
-              "net_amt": 2.38
-            },
-            {
-              "rule_id": 448671,
-              "rule_priority": 0,
-              "discount_amt": 46,
-              "vat_amt": 3.04,
-              "net_amt": 42.96
+              "discount_amt": 10.29,
+              "vat_amt": 0.67,
+              "net_amt": 9.62
             }
           ]
         }
@@ -264,116 +146,59 @@
         "qty_pack": 0,
         "product_status": "A",
         "exclusive_flag": false,
-        "brand_code": "00594",
+        "brand_code": "01736",
         "is_weight_item": false
       }
     },
     {
       "market_unit_th": "",
       "market_unit_en": "",
-      "sku": "8850124003874",
+      "sku": "8850342081067",
       "is_exclude": false,
-      "short_name_en": "Pure Life Drinking Water 600cc. Pack 12",
-      "short_name_th": "เพียวไลฟ์น้ำดื่ม 600ซีซี แพค 12",
+      "short_name_en": "Belucky Vienna Sausage 400g.",
+      "short_name_th": "บีลัคกี้เวียนนาซอสเซจ 400กรัม",
       "is_vat": true,
       "qty_unit_th": "แพค",
       "qty_unit_en": "pack",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850124003874_cp66-2021.jpg",
-      "full_price": 68,
+      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850342081067.jpg",
+      "full_price": 169,
       "vat_rate": 7,
       "lines": [
         {
-          "line_id": "21272750",
-          "line_number": 1248,
-          "sale_price": 66,
-          "normal_price": 68,
-          "vat_amt": 2.9,
-          "item_discount_amt": 21.63,
+          "line_id": "21282825",
+          "line_number": 3,
+          "sale_price": 169,
+          "normal_price": 169,
+          "vat_amt": 10.07,
+          "item_discount_amt": 15,
           "redeem_amt": 0,
-          "net_amt": 41.47,
+          "net_amt": 143.93,
           "discounts": [
             {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 2.63,
-              "vat_amt": 0.17,
-              "net_amt": 2.46
-            },
-            {
-              "rule_id": 448973,
+              "rule_id": 432805,
               "rule_priority": 0,
-              "discount_amt": 19,
-              "vat_amt": 1.24,
-              "net_amt": 17.76
+              "discount_amt": 15,
+              "vat_amt": 0.98,
+              "net_amt": 14.02
             }
           ]
         },
         {
-          "line_id": "21272750",
-          "line_number": 1249,
-          "sale_price": 66,
-          "normal_price": 68,
-          "vat_amt": 2.9,
-          "item_discount_amt": 21.63,
+          "line_id": "21282825",
+          "line_number": 4,
+          "sale_price": 169,
+          "normal_price": 169,
+          "vat_amt": 10.08,
+          "item_discount_amt": 14.99,
           "redeem_amt": 0,
-          "net_amt": 41.47,
+          "net_amt": 143.93,
           "discounts": [
             {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 2.63,
-              "vat_amt": 0.17,
-              "net_amt": 2.46
-            },
-            {
-              "rule_id": 448973,
+              "rule_id": 432805,
               "rule_priority": 0,
-              "discount_amt": 19,
-              "vat_amt": 1.25,
-              "net_amt": 17.75
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": true,
-        "qty_pack": 12,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "01928",
-        "is_weight_item": false
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "8850357000992",
-      "is_exclude": false,
-      "short_name_en": "Maboonkrong Riceberry Rice 1kg.",
-      "short_name_th": "มาบุญครองข้าวไรซ์เบอร์รี่ 1กก.",
-      "is_vat": true,
-      "qty_unit_th": "ชิ้น",
-      "qty_unit_en": "pcs",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850357000992_1_1.jpg",
-      "full_price": 140,
-      "vat_rate": 7,
-      "lines": [
-        {
-          "line_id": "21272752",
-          "line_number": 1250,
-          "sale_price": 119,
-          "normal_price": 140,
-          "vat_amt": 7.35,
-          "item_discount_amt": 6.67,
-          "redeem_amt": 0,
-          "net_amt": 104.98,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 6.67,
-              "vat_amt": 0.44,
-              "net_amt": 6.23
+              "discount_amt": 14.99,
+              "vat_amt": 0.98,
+              "net_amt": 14.01
             }
           ]
         }
@@ -383,100 +208,139 @@
         "qty_pack": 0,
         "product_status": "A",
         "exclusive_flag": false,
-        "brand_code": "01474",
+        "brand_code": "04271",
+        "is_weight_item": false
+      }
+    },
+    {
+      "market_unit_th": "",
+      "market_unit_en": "",
+      "sku": "4895125702764",
+      "is_exclude": false,
+      "short_name_en": "Swash Cleaner Dust 1000ml.",
+      "short_name_th": "สว๊อชน้ำยาดันฝุ่น 1000มล.",
+      "is_vat": true,
+      "qty_unit_th": "ชิ้น",
+      "qty_unit_en": "pcs",
+      "image_url": "https://backend.tops.co.th/media/catalog/product//4/8/4895125702764_1.jpg",
+      "full_price": 289,
+      "vat_rate": 7,
+      "lines": [
+        {
+          "line_id": "21282826",
+          "line_number": 5,
+          "sale_price": 289,
+          "normal_price": 289,
+          "vat_amt": 17.23,
+          "item_discount_amt": 25.65,
+          "redeem_amt": 0,
+          "net_amt": 246.12,
+          "discounts": [
+            {
+              "rule_id": 432805,
+              "rule_priority": 0,
+              "discount_amt": 25.65,
+              "vat_amt": 1.68,
+              "net_amt": 23.97
+            }
+          ]
+        }
+      ],
+      "extension_attributes": {
+        "is_pack": false,
+        "qty_pack": 0,
+        "product_status": "A",
+        "exclusive_flag": false,
+        "brand_code": "08542",
+        "is_weight_item": false
+      }
+    },
+    {
+      "market_unit_th": "",
+      "market_unit_en": "",
+      "sku": "8850046100606",
+      "is_exclude": false,
+      "short_name_en": "Zilk Extra Soft Toilet Tissue 3 Ply Pack 6rolls",
+      "short_name_th": "ซิลค์เอ็กซ์ตร้าซอฟท์กระดาษชำระหนา3ชั้นแพค 6ม้วน",
+      "is_vat": true,
+      "qty_unit_th": "แพค",
+      "qty_unit_en": "pack",
+      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850046100606_e21-09-2020.jpg",
+      "full_price": 74,
+      "vat_rate": 7,
+      "lines": [
+        {
+          "line_id": "21282827",
+          "line_number": 6,
+          "sale_price": 71,
+          "normal_price": 74,
+          "vat_amt": 4.23,
+          "item_discount_amt": 6.3,
+          "redeem_amt": 0,
+          "net_amt": 60.47,
+          "discounts": [
+            {
+              "rule_id": 432805,
+              "rule_priority": 0,
+              "discount_amt": 6.3,
+              "vat_amt": 0.41,
+              "net_amt": 5.89
+            }
+          ]
+        }
+      ],
+      "extension_attributes": {
+        "is_pack": false,
+        "qty_pack": 0,
+        "product_status": "A",
+        "exclusive_flag": false,
+        "brand_code": "07214",
         "is_weight_item": false,
-        "promotion_code": "1300054642",
+        "promotion_code": "2200040566",
         "promotion_type": "sale"
       }
     },
     {
       "market_unit_th": "",
       "market_unit_en": "",
-      "sku": "8853474057887",
+      "sku": "8853474045099",
       "is_exclude": false,
-      "short_name_en": "Tops Drinking Water 1500ml. Pack 6",
-      "short_name_th": "ท็อปส์น้ำดื่ม 1500มล. แพค 6",
+      "short_name_en": "Smart R Soft and Strong Facial Tissue 150sheets Pack 3",
+      "short_name_th": "สมาร์ทเตอร์กระดาษเช็ดหน้าซอฟท์แพค 150แผ่น แพค 3",
       "is_vat": true,
       "qty_unit_th": "แพค",
       "qty_unit_en": "pack",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8853474057887_copy.jpg",
-      "full_price": 47,
+      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8853474045099_12-05-2021.jpg",
+      "full_price": 65,
       "vat_rate": 7,
       "lines": [
         {
-          "line_id": "21272753",
-          "line_number": 1251,
-          "sale_price": 43,
-          "normal_price": 47,
-          "vat_amt": 2.66,
-          "item_discount_amt": 2.4,
+          "line_id": "21282828",
+          "line_number": 7,
+          "sale_price": 65,
+          "normal_price": 65,
+          "vat_amt": 3.88,
+          "item_discount_amt": 5.76,
           "redeem_amt": 0,
-          "net_amt": 37.94,
+          "net_amt": 55.36,
           "discounts": [
             {
-              "rule_id": 438342,
+              "rule_id": 432805,
               "rule_priority": 0,
-              "discount_amt": 2.4,
-              "vat_amt": 0.16,
-              "net_amt": 2.24
+              "discount_amt": 5.76,
+              "vat_amt": 0.38,
+              "net_amt": 5.38
             }
           ]
         }
       ],
       "extension_attributes": {
-        "is_pack": true,
-        "qty_pack": 6,
+        "is_pack": false,
+        "qty_pack": 0,
         "product_status": "A",
         "exclusive_flag": false,
-        "brand_code": "02449",
-        "is_weight_item": false,
-        "promotion_code": "1600006046",
-        "promotion_type": "sale"
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "8853474057863",
-      "is_exclude": false,
-      "short_name_en": "Tops Drinking Water 600ml. Pack 12",
-      "short_name_th": "ท็อปส์น้ำดื่ม 600มล. แพค 12",
-      "is_vat": true,
-      "qty_unit_th": "แพค",
-      "qty_unit_en": "pack",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8853474057863.jpg",
-      "full_price": 46,
-      "vat_rate": 7,
-      "lines": [
-        {
-          "line_id": "21272755",
-          "line_number": 1252,
-          "sale_price": 43,
-          "normal_price": 46,
-          "vat_amt": 2.66,
-          "item_discount_amt": 2.41,
-          "redeem_amt": 0,
-          "net_amt": 37.93,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 2.41,
-              "vat_amt": 0.16,
-              "net_amt": 2.25
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": true,
-        "qty_pack": 12,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "02449",
-        "is_weight_item": false,
-        "promotion_code": "1600006046",
-        "promotion_type": "sale"
+        "brand_code": "10191",
+        "is_weight_item": false
       }
     },
     {
@@ -494,40 +358,40 @@
       "vat_rate": 7,
       "lines": [
         {
-          "line_id": "21272757",
-          "line_number": 1253,
+          "line_id": "21282829",
+          "line_number": 8,
           "sale_price": 34,
           "normal_price": 34,
-          "vat_amt": 2.1,
-          "item_discount_amt": 1.91,
+          "vat_amt": 2.03,
+          "item_discount_amt": 3.02,
           "redeem_amt": 0,
-          "net_amt": 29.99,
+          "net_amt": 28.95,
           "discounts": [
             {
-              "rule_id": 438342,
+              "rule_id": 432805,
               "rule_priority": 0,
-              "discount_amt": 1.91,
-              "vat_amt": 0.12,
-              "net_amt": 1.79
+              "discount_amt": 3.02,
+              "vat_amt": 0.19,
+              "net_amt": 2.83
             }
           ]
         },
         {
-          "line_id": "21272757",
-          "line_number": 1254,
+          "line_id": "21282829",
+          "line_number": 9,
           "sale_price": 34,
           "normal_price": 34,
-          "vat_amt": 2.1,
-          "item_discount_amt": 1.9,
+          "vat_amt": 2.03,
+          "item_discount_amt": 3.02,
           "redeem_amt": 0,
-          "net_amt": 30,
+          "net_amt": 28.95,
           "discounts": [
             {
-              "rule_id": 438342,
+              "rule_id": 432805,
               "rule_priority": 0,
-              "discount_amt": 1.9,
-              "vat_amt": 0.13,
-              "net_amt": 1.77
+              "discount_amt": 3.02,
+              "vat_amt": 0.21,
+              "net_amt": 2.81
             }
           ]
         }
@@ -544,90 +408,71 @@
     {
       "market_unit_th": "",
       "market_unit_en": "",
-      "sku": "8851959148945",
+      "sku": "8851530160021",
       "is_exclude": false,
-      "short_name_en": "Minute Maid Pulpy 335ml.",
-      "short_name_th": "มินิทเมด พัลพี น้ำส้ม ผสมเนื้อส้ม 335 มล.",
+      "short_name_en": "Mont Fleur Minenal Water 5ltr.",
+      "short_name_th": "มองต์เฟลอน้ำแร่ 5ลิตร",
       "is_vat": true,
       "qty_unit_th": "ขวด",
       "qty_unit_en": "btls",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8851959148945_e17-01-2019.jpg",
-      "full_price": 18,
+      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8851530160021_e17-07-2019.jpg",
+      "full_price": 61,
       "vat_rate": 7,
       "lines": [
         {
-          "line_id": "21272758",
-          "line_number": 1255,
-          "sale_price": 18,
-          "normal_price": 18,
-          "vat_amt": 1.11,
-          "item_discount_amt": 1.01,
+          "line_id": "21282830",
+          "line_number": 10,
+          "sale_price": 61,
+          "normal_price": 61,
+          "vat_amt": 3.64,
+          "item_discount_amt": 5.41,
           "redeem_amt": 0,
-          "net_amt": 15.88,
+          "net_amt": 51.95,
           "discounts": [
             {
-              "rule_id": 438342,
+              "rule_id": 432805,
               "rule_priority": 0,
-              "discount_amt": 1.01,
-              "vat_amt": 0.06,
-              "net_amt": 0.95
+              "discount_amt": 5.41,
+              "vat_amt": 0.35,
+              "net_amt": 5.06
             }
           ]
         },
         {
-          "line_id": "21272758",
-          "line_number": 1256,
-          "sale_price": 18,
-          "normal_price": 18,
-          "vat_amt": 1.11,
-          "item_discount_amt": 1.01,
+          "line_id": "21282830",
+          "line_number": 11,
+          "sale_price": 61,
+          "normal_price": 61,
+          "vat_amt": 3.64,
+          "item_discount_amt": 5.41,
           "redeem_amt": 0,
-          "net_amt": 15.88,
+          "net_amt": 51.95,
           "discounts": [
             {
-              "rule_id": 438342,
+              "rule_id": 432805,
               "rule_priority": 0,
-              "discount_amt": 1.01,
-              "vat_amt": 0.06,
-              "net_amt": 0.95
+              "discount_amt": 5.41,
+              "vat_amt": 0.35,
+              "net_amt": 5.06
             }
           ]
         },
         {
-          "line_id": "21272758",
-          "line_number": 1257,
-          "sale_price": 18,
-          "normal_price": 18,
-          "vat_amt": 1.11,
-          "item_discount_amt": 1.01,
+          "line_id": "21282830",
+          "line_number": 12,
+          "sale_price": 61,
+          "normal_price": 61,
+          "vat_amt": 3.64,
+          "item_discount_amt": 5.42,
           "redeem_amt": 0,
-          "net_amt": 15.88,
+          "net_amt": 51.94,
           "discounts": [
             {
-              "rule_id": 438342,
+              "rule_id": 432805,
               "rule_priority": 0,
-              "discount_amt": 1.01,
-              "vat_amt": 0.06,
-              "net_amt": 0.95
-            }
-          ]
-        },
-        {
-          "line_id": "21272758",
-          "line_number": 1258,
-          "sale_price": 18,
-          "normal_price": 18,
-          "vat_amt": 1.11,
-          "item_discount_amt": 1,
-          "redeem_amt": 0,
-          "net_amt": 15.89,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 1,
-              "vat_amt": 0.08,
-              "net_amt": 0.92
+              "discount_amt": 5.42,
+              "vat_amt": 0.36,
+              "net_amt": 5.06
             }
           ]
         }
@@ -637,1507 +482,306 @@
         "qty_pack": 0,
         "product_status": "A",
         "exclusive_flag": false,
-        "brand_code": "07935",
+        "brand_code": "01538",
         "is_weight_item": false
       }
     },
     {
       "market_unit_th": "",
       "market_unit_en": "",
-      "sku": "8851013775490",
+      "sku": "8850011100303",
       "is_exclude": false,
-      "short_name_en": "Tipco Kiwi and Grape Juice 1ltr.",
-      "short_name_th": "ทิปโก้น้ำกีวีผสมน้ำองุ่นขาว100เปอร์เซ็นต์ 1ลิตร",
+      "short_name_en": "Minere Mineral Water 1.5ltr. Pack 6",
+      "short_name_th": "มิเนเร่น้ำแร่ 1.5ลิตร แพค 6",
       "is_vat": true,
-      "qty_unit_th": "กล่อง",
-      "qty_unit_en": "box",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8851013775490_1.jpg",
-      "full_price": 72,
-      "vat_rate": 7,
-      "lines": [
-        {
-          "line_id": "21272759",
-          "line_number": 1259,
-          "sale_price": 72,
-          "normal_price": 72,
-          "vat_amt": 4.45,
-          "item_discount_amt": 4.04,
-          "redeem_amt": 0,
-          "net_amt": 63.51,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 4.04,
-              "vat_amt": 0.26,
-              "net_amt": 3.78
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "02423",
-        "is_weight_item": false
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "8853474056651",
-      "is_exclude": false,
-      "short_name_en": "My Choice Salad Mix 100g.",
-      "short_name_th": "มายช้อยส์สลัดมิกซ์ 100กรัม",
-      "is_vat": false,
       "qty_unit_th": "แพค",
       "qty_unit_en": "pack",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8853474056651.jpg",
-      "full_price": 59,
-      "vat_rate": 0,
-      "lines": [
-        {
-          "line_id": "21272760",
-          "line_number": 1260,
-          "sale_price": 53,
-          "normal_price": 59,
-          "vat_amt": 0,
-          "item_discount_amt": 2.97,
-          "redeem_amt": 0,
-          "net_amt": 50.03,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 2.97,
-              "vat_amt": 0,
-              "net_amt": 2.97
-            }
-          ]
-        },
-        {
-          "line_id": "21272760",
-          "line_number": 1261,
-          "sale_price": 53,
-          "normal_price": 59,
-          "vat_amt": 0,
-          "item_discount_amt": 2.97,
-          "redeem_amt": 0,
-          "net_amt": 50.03,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 2.97,
-              "vat_amt": 0,
-              "net_amt": 2.97
-            }
-          ]
-        },
-        {
-          "line_id": "21272760",
-          "line_number": 1262,
-          "sale_price": 53,
-          "normal_price": 59,
-          "vat_amt": 0,
-          "item_discount_amt": 2.97,
-          "redeem_amt": 0,
-          "net_amt": 50.03,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 2.97,
-              "vat_amt": 0,
-              "net_amt": 2.97
-            }
-          ]
-        },
-        {
-          "line_id": "21272760",
-          "line_number": 1263,
-          "sale_price": 53,
-          "normal_price": 59,
-          "vat_amt": 0,
-          "item_discount_amt": 2.96,
-          "redeem_amt": 0,
-          "net_amt": 50.04,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 2.96,
-              "vat_amt": 0,
-              "net_amt": 2.96
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "07448",
-        "is_weight_item": false,
-        "promotion_code": "5700079429",
-        "promotion_type": "sale"
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "0218175000002",
-      "is_exclude": false,
-      "short_name_en": "Vietnam Sweet Potato",
-      "short_name_th": "มันเทศหวานเวียดนาม",
-      "is_vat": false,
-      "qty_unit_th": "กก.",
-      "qty_unit_en": "kg",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//0/2/0218175000002.jpg",
-      "full_price": 119,
-      "vat_rate": 0,
-      "lines": [
-        {
-          "line_id": "21272761",
-          "line_number": 1264,
-          "sale_price": 119,
-          "normal_price": 119,
-          "vat_amt": 0,
-          "item_discount_amt": 6.66,
-          "redeem_amt": 0,
-          "net_amt": 112.34,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 6.66,
-              "vat_amt": 0,
-              "net_amt": 6.66
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "00000",
-        "is_weight_item": true,
-        "weight_item": {
-          "average_weight": 1,
-          "unit": "KG"
-        }
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "0000030118072",
-      "is_exclude": false,
-      "short_name_en": "Spinach  150g.",
-      "short_name_th": "ปวยเล้ง 150กรัม",
-      "is_vat": false,
-      "qty_unit_th": "แพค",
-      "qty_unit_en": "pack",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//0/0/0000030118072.jpg",
-      "full_price": 55,
-      "vat_rate": 0,
-      "lines": [
-        {
-          "line_id": "21272762",
-          "line_number": 1265,
-          "sale_price": 55,
-          "normal_price": 55,
-          "vat_amt": 0,
-          "item_discount_amt": 3.08,
-          "redeem_amt": 0,
-          "net_amt": 51.92,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 3.08,
-              "vat_amt": 0,
-              "net_amt": 3.08
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "07448",
-        "is_weight_item": false
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "0219459000008",
-      "is_exclude": false,
-      "short_name_en": "Pumpkin",
-      "short_name_th": "ฟักทอง",
-      "is_vat": false,
-      "qty_unit_th": "กก.",
-      "qty_unit_en": "kg",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//0/2/0219459000008.jpg",
-      "full_price": 55,
-      "vat_rate": 0,
-      "lines": [
-        {
-          "line_id": "21272763",
-          "line_number": 1266,
-          "sale_price": 55,
-          "normal_price": 55,
-          "vat_amt": 0,
-          "item_discount_amt": 3.08,
-          "redeem_amt": 0,
-          "net_amt": 51.92,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 3.08,
-              "vat_amt": 0,
-              "net_amt": 3.08
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "00000",
-        "is_weight_item": true,
-        "weight_item": {
-          "average_weight": 1,
-          "unit": "KG"
-        }
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "0217835000000",
-      "is_exclude": false,
-      "short_name_en": "Cauliflower",
-      "short_name_th": "Cauliflower",
-      "is_vat": false,
-      "qty_unit_th": "กก.",
-      "qty_unit_en": "kg",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//0/2/0217835000000.jpg",
-      "full_price": 85,
-      "vat_rate": 0,
-      "lines": [
-        {
-          "line_id": "21272764",
-          "line_number": 1267,
-          "sale_price": 85,
-          "normal_price": 85,
-          "vat_amt": 0,
-          "item_discount_amt": 4.76,
-          "redeem_amt": 0,
-          "net_amt": 80.24,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 4.76,
-              "vat_amt": 0,
-              "net_amt": 4.76
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "00000",
-        "is_weight_item": true,
-        "weight_item": {
-          "average_weight": 1,
-          "unit": "KG"
-        }
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "8850718803576",
-      "is_exclude": false,
-      "short_name_en": "Lays Rock Hot Chili Squid Potato Chips 75g",
-      "short_name_th": "เลย์แผ่นหยักรสหมึกย่างฮอตชิลลี่ 75กรัม",
-      "is_vat": true,
-      "qty_unit_th": "ชิ้น",
-      "qty_unit_en": "pcs",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850718803576_421.jpg",
-      "full_price": 30,
+      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850011100303_29-04-2021.jpg",
+      "full_price": 104,
       "vat_rate": 7,
       "lines": [
         {
-          "line_id": "21272765",
-          "line_number": 1268,
-          "sale_price": 29,
-          "normal_price": 30,
-          "vat_amt": -0.07,
-          "item_discount_amt": 30.08,
+          "line_id": "21282831",
+          "line_number": 13,
+          "sale_price": 99,
+          "normal_price": 104,
+          "vat_amt": -0.43,
+          "item_discount_amt": 105.59,
           "redeem_amt": 0,
-          "net_amt": -1.01,
+          "net_amt": -6.16,
           "discounts": [
             {
-              "rule_id": 438342,
+              "rule_id": 432805,
               "rule_priority": 1,
-              "discount_amt": 1.08,
-              "vat_amt": 0.07,
-              "net_amt": 1.01
+              "discount_amt": 6.59,
+              "vat_amt": 0.43,
+              "net_amt": 6.16
             },
             {
-              "rule_id": 448613,
+              "rule_id": 448572,
               "rule_priority": 0,
-              "discount_amt": 29,
-              "vat_amt": 1.9,
-              "net_amt": 27.1
+              "discount_amt": 99,
+              "vat_amt": 6.48,
+              "net_amt": 92.52
             }
           ]
         },
         {
-          "line_id": "21272765",
-          "line_number": 1269,
-          "sale_price": 29,
-          "normal_price": 30,
-          "vat_amt": 1.83,
-          "item_discount_amt": 1.08,
+          "line_id": "21282831",
+          "line_number": 14,
+          "sale_price": 99,
+          "normal_price": 104,
+          "vat_amt": 6.05,
+          "item_discount_amt": 6.59,
           "redeem_amt": 0,
-          "net_amt": 26.09,
+          "net_amt": 86.36,
           "discounts": [
             {
-              "rule_id": 438342,
+              "rule_id": 432805,
               "rule_priority": 1,
-              "discount_amt": 1.08,
-              "vat_amt": 0.07,
-              "net_amt": 1.01
+              "discount_amt": 6.59,
+              "vat_amt": 0.43,
+              "net_amt": 6.16
             }
           ]
         },
         {
-          "line_id": "21272765",
-          "line_number": 1270,
-          "sale_price": 29,
-          "normal_price": 30,
-          "vat_amt": 1.83,
-          "item_discount_amt": 1.09,
+          "line_id": "21282831",
+          "line_number": 15,
+          "sale_price": 99,
+          "normal_price": 104,
+          "vat_amt": 6.05,
+          "item_discount_amt": 6.59,
           "redeem_amt": 0,
-          "net_amt": 26.08,
+          "net_amt": 86.36,
           "discounts": [
             {
-              "rule_id": 438342,
+              "rule_id": 432805,
               "rule_priority": 1,
-              "discount_amt": 1.09,
-              "vat_amt": 0.07,
-              "net_amt": 1.02
+              "discount_amt": 6.59,
+              "vat_amt": 0.43,
+              "net_amt": 6.16
+            }
+          ]
+        },
+        {
+          "line_id": "21282831",
+          "line_number": 16,
+          "sale_price": 99,
+          "normal_price": 104,
+          "vat_amt": 6.05,
+          "item_discount_amt": 6.58,
+          "redeem_amt": 0,
+          "net_amt": 86.37,
+          "discounts": [
+            {
+              "rule_id": 432805,
+              "rule_priority": 1,
+              "discount_amt": 6.58,
+              "vat_amt": 0.43,
+              "net_amt": 6.15
             }
           ]
         }
       ],
       "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
+        "is_pack": true,
+        "qty_pack": 6,
         "product_status": "A",
         "exclusive_flag": false,
-        "brand_code": "01278",
+        "brand_code": "01495",
         "is_weight_item": false
       }
     },
     {
       "market_unit_th": "",
       "market_unit_en": "",
-      "sku": "8850718801138",
+      "sku": "8850127057997",
       "is_exclude": false,
-      "short_name_en": "Lays Rock Potato BBQ 75g.",
-      "short_name_th": "เลย์ร็อกรสBBQ 75กรัม",
+      "short_name_en": "Minere Mineral Water 500cc X12",
+      "short_name_th": "มิเนเร่น้ำแร่ 500มล. แพค 12",
       "is_vat": true,
-      "qty_unit_th": "ชิ้น",
-      "qty_unit_en": "pcs",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850718801138_421.jpg",
-      "full_price": 30,
+      "qty_unit_th": "แพค",
+      "qty_unit_en": "pack",
+      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850127057997_29-04-2021.jpg",
+      "full_price": 104,
       "vat_rate": 7,
       "lines": [
         {
-          "line_id": "21272766",
-          "line_number": 1271,
-          "sale_price": 29,
-          "normal_price": 30,
-          "vat_amt": 1.79,
-          "item_discount_amt": 1.63,
+          "line_id": "21282833",
+          "line_number": 17,
+          "sale_price": 99,
+          "normal_price": 104,
+          "vat_amt": 5.9,
+          "item_discount_amt": 8.78,
           "redeem_amt": 0,
-          "net_amt": 25.58,
+          "net_amt": 84.32,
           "discounts": [
             {
-              "rule_id": 448613,
+              "rule_id": 448572,
               "rule_priority": 0,
               "discount_amt": 0,
               "vat_amt": 0,
               "net_amt": 0
             },
             {
-              "rule_id": 438342,
+              "rule_id": 432805,
               "rule_priority": 1,
-              "discount_amt": 1.63,
-              "vat_amt": 0.1,
-              "net_amt": 1.53
+              "discount_amt": 8.78,
+              "vat_amt": 0.57,
+              "net_amt": 8.21
             }
           ]
         },
         {
-          "line_id": "21272766",
-          "line_number": 1272,
-          "sale_price": 29,
-          "normal_price": 30,
-          "vat_amt": 1.79,
-          "item_discount_amt": 1.62,
+          "line_id": "21282833",
+          "line_number": 18,
+          "sale_price": 99,
+          "normal_price": 104,
+          "vat_amt": 5.9,
+          "item_discount_amt": 8.78,
           "redeem_amt": 0,
-          "net_amt": 25.59,
+          "net_amt": 84.32,
           "discounts": [
             {
-              "rule_id": 448613,
+              "rule_id": 448572,
               "rule_priority": 0,
               "discount_amt": 0,
               "vat_amt": 0,
               "net_amt": 0
             },
             {
-              "rule_id": 438342,
+              "rule_id": 432805,
               "rule_priority": 1,
-              "discount_amt": 1.62,
-              "vat_amt": 0.11,
-              "net_amt": 1.51
+              "discount_amt": 8.78,
+              "vat_amt": 0.57,
+              "net_amt": 8.21
             }
           ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "01278",
-        "is_weight_item": false
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "8851717901881",
-      "is_exclude": false,
-      "short_name_en": "Dutch Mill Pasteurized Milk Non Fat 400cc.",
-      "short_name_th": "ดัชมิลล์นมสดรสขาดมันเนย 400ซีซี",
-      "is_vat": false,
-      "qty_unit_th": "ชิ้น",
-      "qty_unit_en": "pcs",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8851717901881_24-05-2021.jpg",
-      "full_price": 24.5,
-      "vat_rate": 0,
-      "lines": [
+        },
         {
-          "line_id": "21272767",
-          "line_number": 1273,
-          "sale_price": 24.5,
-          "normal_price": 24.5,
-          "vat_amt": 0,
-          "item_discount_amt": 1.37,
+          "line_id": "21282833",
+          "line_number": 19,
+          "sale_price": 99,
+          "normal_price": 104,
+          "vat_amt": 5.9,
+          "item_discount_amt": 8.79,
           "redeem_amt": 0,
-          "net_amt": 23.13,
+          "net_amt": 84.31,
           "discounts": [
             {
-              "rule_id": 438342,
+              "rule_id": 448572,
               "rule_priority": 0,
-              "discount_amt": 1.37,
+              "discount_amt": 0,
               "vat_amt": 0,
-              "net_amt": 1.37
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "00651",
-        "is_weight_item": false
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "8851717906725",
-      "is_exclude": false,
-      "short_name_en": "Dutchie Bio Original Yogurt 135g. Pack 4",
-      "short_name_th": "ดัชชี่ไบโอโยเกิร์ตรสออริจินัล 135กรัม แพค 4",
-      "is_vat": true,
-      "qty_unit_th": "แพค",
-      "qty_unit_en": "pack",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8851717906725.jpg",
-      "full_price": 58,
-      "vat_rate": 7,
-      "lines": [
-        {
-          "line_id": "21272768",
-          "line_number": 1274,
-          "sale_price": 58,
-          "normal_price": 58,
-          "vat_amt": 3.58,
-          "item_discount_amt": 3.25,
-          "redeem_amt": 0,
-          "net_amt": 51.17,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 3.25,
-              "vat_amt": 0.21,
-              "net_amt": 3.04
-            }
-          ]
-        },
-        {
-          "line_id": "21272768",
-          "line_number": 1275,
-          "sale_price": 58,
-          "normal_price": 58,
-          "vat_amt": 3.58,
-          "item_discount_amt": 3.25,
-          "redeem_amt": 0,
-          "net_amt": 51.17,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 3.25,
-              "vat_amt": 0.21,
-              "net_amt": 3.04
-            }
-          ]
-        },
-        {
-          "line_id": "21272768",
-          "line_number": 1276,
-          "sale_price": 58,
-          "normal_price": 58,
-          "vat_amt": 3.58,
-          "item_discount_amt": 3.24,
-          "redeem_amt": 0,
-          "net_amt": 51.18,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 3.24,
-              "vat_amt": 0.22,
-              "net_amt": 3.02
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "00652",
-        "is_weight_item": false,
-        "promotion_code": "5100003249",
-        "promotion_type": "sale"
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "8851262059013",
-      "is_exclude": false,
-      "short_name_en": "Yolida Set Yogurt Natural Unsweetened 120g.",
-      "short_name_th": "โยลิดาโยเกิร์ตชนิดคงตัวรสธรรมชาติ 120กรัม",
-      "is_vat": true,
-      "qty_unit_th": "ชิ้น",
-      "qty_unit_en": "pcs",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8851262059013.jpg",
-      "full_price": 20,
-      "vat_rate": 7,
-      "lines": [
-        {
-          "line_id": "21272769",
-          "line_number": 1277,
-          "sale_price": 20,
-          "normal_price": 20,
-          "vat_amt": 1.24,
-          "item_discount_amt": 1.12,
-          "redeem_amt": 0,
-          "net_amt": 17.64,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 1.12,
-              "vat_amt": 0.07,
-              "net_amt": 1.05
-            }
-          ]
-        },
-        {
-          "line_id": "21272769",
-          "line_number": 1278,
-          "sale_price": 20,
-          "normal_price": 20,
-          "vat_amt": 1.24,
-          "item_discount_amt": 1.12,
-          "redeem_amt": 0,
-          "net_amt": 17.64,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 1.12,
-              "vat_amt": 0.07,
-              "net_amt": 1.05
-            }
-          ]
-        },
-        {
-          "line_id": "21272769",
-          "line_number": 1279,
-          "sale_price": 20,
-          "normal_price": 20,
-          "vat_amt": 1.24,
-          "item_discount_amt": 1.12,
-          "redeem_amt": 0,
-          "net_amt": 17.64,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 1.12,
-              "vat_amt": 0.07,
-              "net_amt": 1.05
-            }
-          ]
-        },
-        {
-          "line_id": "21272769",
-          "line_number": 1280,
-          "sale_price": 20,
-          "normal_price": 20,
-          "vat_amt": 1.24,
-          "item_discount_amt": 1.12,
-          "redeem_amt": 0,
-          "net_amt": 17.64,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 1.12,
-              "vat_amt": 0.07,
-              "net_amt": 1.05
-            }
-          ]
-        },
-        {
-          "line_id": "21272769",
-          "line_number": 1281,
-          "sale_price": 20,
-          "normal_price": 20,
-          "vat_amt": 1.24,
-          "item_discount_amt": 1.12,
-          "redeem_amt": 0,
-          "net_amt": 17.64,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 1.12,
-              "vat_amt": 0.07,
-              "net_amt": 1.05
-            }
-          ]
-        },
-        {
-          "line_id": "21272769",
-          "line_number": 1282,
-          "sale_price": 20,
-          "normal_price": 20,
-          "vat_amt": 1.24,
-          "item_discount_amt": 1.12,
-          "redeem_amt": 0,
-          "net_amt": 17.64,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 1.12,
-              "vat_amt": 0.09,
-              "net_amt": 1.03
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "06098",
-        "is_weight_item": false
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "8852240010026",
-      "is_exclude": false,
-      "short_name_en": "Chao Sua Rice Cracker with Pork Floss 90g.",
-      "short_name_th": "เจ้าสัวข้าวตังหน้าหมูหยอง 90กรัม",
-      "is_vat": true,
-      "qty_unit_th": "ชิ้น",
-      "qty_unit_en": "pcs",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8852240010026_17-02-2021.jpg",
-      "full_price": 60,
-      "vat_rate": 7,
-      "lines": [
-        {
-          "line_id": "21272770",
-          "line_number": 1283,
-          "sale_price": 55,
-          "normal_price": 60,
-          "vat_amt": 3.4,
-          "item_discount_amt": 3.08,
-          "redeem_amt": 0,
-          "net_amt": 48.52,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 3.08,
-              "vat_amt": 0.2,
-              "net_amt": 2.88
-            }
-          ]
-        },
-        {
-          "line_id": "21272770",
-          "line_number": 1284,
-          "sale_price": 55,
-          "normal_price": 60,
-          "vat_amt": 3.4,
-          "item_discount_amt": 3.08,
-          "redeem_amt": 0,
-          "net_amt": 48.52,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 3.08,
-              "vat_amt": 0.2,
-              "net_amt": 2.88
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "06245",
-        "is_weight_item": false,
-        "promotion_code": "5200044278",
-        "promotion_type": "sale"
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "8851004801184",
-      "is_exclude": false,
-      "short_name_en": "Dozo Rice Cracker 56g.",
-      "short_name_th": "โดโซะข้าวหอมกรอบ 56กรัม",
-      "is_vat": true,
-      "qty_unit_th": "ชิ้น",
-      "qty_unit_en": "pcs",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8851004801184_e15-05-2020.jpg",
-      "full_price": 25,
-      "vat_rate": 7,
-      "lines": [
-        {
-          "line_id": "21272771",
-          "line_number": 1285,
-          "sale_price": 24,
-          "normal_price": 25,
-          "vat_amt": 1.17,
-          "item_discount_amt": 6.07,
-          "redeem_amt": 0,
-          "net_amt": 16.76,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 1.07,
-              "vat_amt": 0.06,
-              "net_amt": 1.01
+              "net_amt": 0
             },
             {
-              "rule_id": 449031,
-              "rule_priority": 0,
-              "discount_amt": 5,
-              "vat_amt": 0.32,
-              "net_amt": 4.68
-            }
-          ]
-        },
-        {
-          "line_id": "21272771",
-          "line_number": 1286,
-          "sale_price": 24,
-          "normal_price": 25,
-          "vat_amt": 1.17,
-          "item_discount_amt": 6.06,
-          "redeem_amt": 0,
-          "net_amt": 16.77,
-          "discounts": [
-            {
-              "rule_id": 438342,
+              "rule_id": 432805,
               "rule_priority": 1,
-              "discount_amt": 1.06,
-              "vat_amt": 0.08,
-              "net_amt": 0.98
-            },
-            {
-              "rule_id": 449031,
-              "rule_priority": 0,
-              "discount_amt": 5,
-              "vat_amt": 0.33,
-              "net_amt": 4.67
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "00620",
-        "is_weight_item": false
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "8851004803201",
-      "is_exclude": false,
-      "short_name_en": "Dozo Rice Cracker Sweet Chilli 65g.",
-      "short_name_th": "โดโซะข้าวหอมญี่ปุ่นอบกรอบรสสวิทชิลลี่ 65กรัม",
-      "is_vat": true,
-      "qty_unit_th": "แพค",
-      "qty_unit_en": "pack",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8851004803201_copy_e4-12-2018.jpg",
-      "full_price": 25,
-      "vat_rate": 7,
-      "lines": [
-        {
-          "line_id": "21272772",
-          "line_number": 1287,
-          "sale_price": 24,
-          "normal_price": 25,
-          "vat_amt": 1.17,
-          "item_discount_amt": 6.07,
-          "redeem_amt": 0,
-          "net_amt": 16.76,
-          "discounts": [
-            {
-              "rule_id": 449031,
-              "rule_priority": 0,
-              "discount_amt": 5,
-              "vat_amt": 0.32,
-              "net_amt": 4.68
-            },
-            {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 1.07,
-              "vat_amt": 0.06,
-              "net_amt": 1.01
-            }
-          ]
-        },
-        {
-          "line_id": "21272772",
-          "line_number": 1288,
-          "sale_price": 24,
-          "normal_price": 25,
-          "vat_amt": 1.17,
-          "item_discount_amt": 6.06,
-          "redeem_amt": 0,
-          "net_amt": 16.77,
-          "discounts": [
-            {
-              "rule_id": 449031,
-              "rule_priority": 0,
-              "discount_amt": 5,
-              "vat_amt": 0.33,
-              "net_amt": 4.67
-            },
-            {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 1.06,
-              "vat_amt": 0.08,
-              "net_amt": 0.98
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "00620",
-        "is_weight_item": false
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "8850718801381",
-      "is_exclude": false,
-      "short_name_en": "Twisties Extreme Cheese 74g.",
-      "short_name_th": "ทวิสตี้เอ็กซ์ตรีมรสชีส 74กรัม",
-      "is_vat": true,
-      "qty_unit_th": "ชิ้น",
-      "qty_unit_en": "pcs",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850718801381_28-04-2021.jpg",
-      "full_price": 20,
-      "vat_rate": 7,
-      "lines": [
-        {
-          "line_id": "21272773",
-          "line_number": 1289,
-          "sale_price": 20,
-          "normal_price": 20,
-          "vat_amt": 0.93,
-          "item_discount_amt": 5.84,
-          "redeem_amt": 0,
-          "net_amt": 13.23,
-          "discounts": [
-            {
-              "rule_id": 449025,
-              "rule_priority": 0,
-              "discount_amt": 5,
-              "vat_amt": 0.32,
-              "net_amt": 4.68
-            },
-            {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 0.84,
-              "vat_amt": 0.05,
-              "net_amt": 0.79
-            }
-          ]
-        },
-        {
-          "line_id": "21272773",
-          "line_number": 1290,
-          "sale_price": 20,
-          "normal_price": 20,
-          "vat_amt": 0.93,
-          "item_discount_amt": 5.84,
-          "redeem_amt": 0,
-          "net_amt": 13.23,
-          "discounts": [
-            {
-              "rule_id": 449025,
-              "rule_priority": 0,
-              "discount_amt": 5,
-              "vat_amt": 0.33,
-              "net_amt": 4.67
-            },
-            {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 0.84,
-              "vat_amt": 0.06,
-              "net_amt": 0.78
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "02496",
-        "is_weight_item": false
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "8850735100740",
-      "is_exclude": false,
-      "short_name_en": "Poungtong Mandarin Peel 15g.",
-      "short_name_th": "ผึ้งทองผิวส้มปรุงรส 15กรัม",
-      "is_vat": true,
-      "qty_unit_th": "ชิ้น",
-      "qty_unit_en": "pcs",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850735100740_1.jpg",
-      "full_price": 14,
-      "vat_rate": 7,
-      "lines": [
-        {
-          "line_id": "21272774",
-          "line_number": 1291,
-          "sale_price": 14,
-          "normal_price": 14,
-          "vat_amt": 0.43,
-          "item_discount_amt": 7.39,
-          "redeem_amt": 0,
-          "net_amt": 6.18,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 0.39,
-              "vat_amt": 0.02,
-              "net_amt": 0.37
-            },
-            {
-              "rule_id": 448616,
-              "rule_priority": 0,
-              "discount_amt": 7,
-              "vat_amt": 0.45,
-              "net_amt": 6.55
-            }
-          ]
-        },
-        {
-          "line_id": "21272774",
-          "line_number": 1292,
-          "sale_price": 14,
-          "normal_price": 14,
-          "vat_amt": 0.43,
-          "item_discount_amt": 7.39,
-          "redeem_amt": 0,
-          "net_amt": 6.18,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 0.39,
-              "vat_amt": 0.02,
-              "net_amt": 0.37
-            },
-            {
-              "rule_id": 448616,
-              "rule_priority": 0,
-              "discount_amt": 7,
-              "vat_amt": 0.45,
-              "net_amt": 6.55
-            }
-          ]
-        },
-        {
-          "line_id": "21272774",
-          "line_number": 1293,
-          "sale_price": 14,
-          "normal_price": 14,
-          "vat_amt": 0.43,
-          "item_discount_amt": 7.39,
-          "redeem_amt": 0,
-          "net_amt": 6.18,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 0.39,
-              "vat_amt": 0.02,
-              "net_amt": 0.37
-            },
-            {
-              "rule_id": 448616,
-              "rule_priority": 0,
-              "discount_amt": 7,
-              "vat_amt": 0.45,
-              "net_amt": 6.55
-            }
-          ]
-        },
-        {
-          "line_id": "21272774",
-          "line_number": 1294,
-          "sale_price": 14,
-          "normal_price": 14,
-          "vat_amt": 0.43,
-          "item_discount_amt": 7.39,
-          "redeem_amt": 0,
-          "net_amt": 6.18,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 0.39,
-              "vat_amt": 0.02,
-              "net_amt": 0.37
-            },
-            {
-              "rule_id": 448616,
-              "rule_priority": 0,
-              "discount_amt": 7,
-              "vat_amt": 0.45,
-              "net_amt": 6.55
-            }
-          ]
-        },
-        {
-          "line_id": "21272774",
-          "line_number": 1295,
-          "sale_price": 14,
-          "normal_price": 14,
-          "vat_amt": 0.43,
-          "item_discount_amt": 7.39,
-          "redeem_amt": 0,
-          "net_amt": 6.18,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 0.39,
-              "vat_amt": 0.02,
-              "net_amt": 0.37
-            },
-            {
-              "rule_id": 448616,
-              "rule_priority": 0,
-              "discount_amt": 7,
-              "vat_amt": 0.45,
-              "net_amt": 6.55
-            }
-          ]
-        },
-        {
-          "line_id": "21272774",
-          "line_number": 1296,
-          "sale_price": 14,
-          "normal_price": 14,
-          "vat_amt": 0.43,
-          "item_discount_amt": 7.4,
-          "redeem_amt": 0,
-          "net_amt": 6.17,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 1,
-              "discount_amt": 0.4,
-              "vat_amt": 0.05,
-              "net_amt": 0.35
-            },
-            {
-              "rule_id": 448616,
-              "rule_priority": 0,
-              "discount_amt": 7,
-              "vat_amt": 0.5,
-              "net_amt": 6.5
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "12628",
-        "is_weight_item": false
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "6924187844605",
-      "is_exclude": false,
-      "short_name_en": "Chacha Sunflower Seed Mix Flavour 95g.",
-      "short_name_th": "ชาช่าเมล็ดทานตะวัน 5รส 95กรัม",
-      "is_vat": true,
-      "qty_unit_th": "ชิ้น",
-      "qty_unit_en": "pcs",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//6/9/6924187844605_1.jpg",
-      "full_price": 26,
-      "vat_rate": 7,
-      "lines": [
-        {
-          "line_id": "21272775",
-          "line_number": 1297,
-          "sale_price": 26,
-          "normal_price": 26,
-          "vat_amt": 1.61,
-          "item_discount_amt": 1.46,
-          "redeem_amt": 0,
-          "net_amt": 22.93,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 1.46,
-              "vat_amt": 0.1,
-              "net_amt": 1.36
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "09697",
-        "is_weight_item": false
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "8850284013010",
-      "is_exclude": false,
-      "short_name_en": "Hand Pumpkin Seed 25g.",
-      "short_name_th": "มือเมล็ดฟักทองกะเทาะเปลือก 25กรัม",
-      "is_vat": true,
-      "qty_unit_th": "ชิ้น",
-      "qty_unit_en": "pcs",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850284013010_1.jpg",
-      "full_price": 19,
-      "vat_rate": 7,
-      "lines": [
-        {
-          "line_id": "21272776",
-          "line_number": 1298,
-          "sale_price": 19,
-          "normal_price": 19,
-          "vat_amt": 1.17,
-          "item_discount_amt": 1.07,
-          "redeem_amt": 0,
-          "net_amt": 16.76,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 1.07,
-              "vat_amt": 0.06,
-              "net_amt": 1.01
-            }
-          ]
-        },
-        {
-          "line_id": "21272776",
-          "line_number": 1299,
-          "sale_price": 19,
-          "normal_price": 19,
-          "vat_amt": 1.17,
-          "item_discount_amt": 1.06,
-          "redeem_amt": 0,
-          "net_amt": 16.77,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 1.06,
-              "vat_amt": 0.08,
-              "net_amt": 0.98
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "00922",
-        "is_weight_item": false
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "0217375000003",
-      "is_exclude": false,
-      "short_name_en": "My Choice Iceberg Lettuce",
-      "short_name_th": "มายช้อยส์สลัดแก้ว",
-      "is_vat": false,
-      "qty_unit_th": "กก.",
-      "qty_unit_en": "kg",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//0/2/0217375000003.jpg",
-      "full_price": 229,
-      "vat_rate": 0,
-      "lines": [
-        {
-          "line_id": "21272777",
-          "line_number": 1300,
-          "sale_price": 229,
-          "normal_price": 229,
-          "vat_amt": 0,
-          "item_discount_amt": 12.82,
-          "redeem_amt": 0,
-          "net_amt": 216.18,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 12.82,
-              "vat_amt": 0,
-              "net_amt": 12.82
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "07448",
-        "is_weight_item": true,
-        "weight_item": {
-          "average_weight": 1,
-          "unit": "KG"
-        }
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "8853474019359",
-      "is_exclude": false,
-      "short_name_en": "Onion 500g.",
-      "short_name_th": "มายช้อยส์หอมใหญ่ 500กรัม",
-      "is_vat": false,
-      "qty_unit_th": "แพค",
-      "qty_unit_en": "pack",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8853474019359_1.jpg",
-      "full_price": 39,
-      "vat_rate": 0,
-      "lines": [
-        {
-          "line_id": "21272778",
-          "line_number": 1301,
-          "sale_price": 39,
-          "normal_price": 39,
-          "vat_amt": 0,
-          "item_discount_amt": 2.18,
-          "redeem_amt": 0,
-          "net_amt": 36.82,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 2.18,
-              "vat_amt": 0,
-              "net_amt": 2.18
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "07448",
-        "is_weight_item": false
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "8850273141304",
-      "is_exclude": false,
-      "short_name_en": "Ars Mat 60pcs.",
-      "short_name_th": "อาทแมทแผ่น  60ชิ้น",
-      "is_vat": true,
-      "qty_unit_th": "กล่อง",
-      "qty_unit_en": "box",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850273141304.jpg",
-      "full_price": 135,
-      "vat_rate": 7,
-      "lines": [
-        {
-          "line_id": "21272779",
-          "line_number": 1302,
-          "sale_price": 135,
-          "normal_price": 135,
-          "vat_amt": 8.34,
-          "item_discount_amt": 7.56,
-          "redeem_amt": 0,
-          "net_amt": 119.1,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 7.56,
-              "vat_amt": 0.49,
-              "net_amt": 7.07
-            }
-          ]
-        }
-      ],
-      "extension_attributes": {
-        "is_pack": false,
-        "qty_pack": 0,
-        "product_status": "A",
-        "exclusive_flag": false,
-        "brand_code": "00103",
-        "is_weight_item": false
-      }
-    },
-    {
-      "market_unit_th": "",
-      "market_unit_en": "",
-      "sku": "8850175021698",
-      "is_exclude": false,
-      "short_name_en": "Glade Scented Gel Air Fresheners Lavender 180g. Pack 2",
-      "short_name_th": "เกลดเซ็นท์เต็ดเจลผลิตภัณฑ์ปรับอากาศกลิ่นลาเวนเดอร์ 180กรัม แพค 2",
-      "is_vat": true,
-      "qty_unit_th": "แพค",
-      "qty_unit_en": "pack",
-      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850175021698_e21-04-2020.jpg",
-      "full_price": 159,
-      "vat_rate": 7,
-      "lines": [
-        {
-          "line_id": "21272780",
-          "line_number": 1303,
-          "sale_price": 159,
-          "normal_price": 159,
-          "vat_amt": 9.82,
-          "item_discount_amt": 8.91,
-          "redeem_amt": 0,
-          "net_amt": 140.27,
-          "discounts": [
-            {
-              "rule_id": 438342,
-              "rule_priority": 0,
-              "discount_amt": 8.91,
+              "discount_amt": 8.79,
               "vat_amt": 0.58,
-              "net_amt": 8.33
+              "net_amt": 8.21
+            }
+          ]
+        }
+      ],
+      "extension_attributes": {
+        "is_pack": true,
+        "qty_pack": 12,
+        "product_status": "A",
+        "exclusive_flag": false,
+        "brand_code": "01495",
+        "is_weight_item": false
+      }
+    },
+    {
+      "market_unit_th": "",
+      "market_unit_en": "",
+      "sku": "8850124070999",
+      "is_exclude": false,
+      "short_name_en": "Carnation Extra Half  Unsweet Creamer 385g.",
+      "short_name_th": "คาร์เนชั่นเอ็กซ์ตร้าครีมเทียมพร่องไขมันสำหรับอาหารและเบเกอร์รี่ 385กรัม",
+      "is_vat": true,
+      "qty_unit_th": "กป.",
+      "qty_unit_en": "can",
+      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850124070999_e26-08-2019.jpg",
+      "full_price": 21,
+      "vat_rate": 7,
+      "lines": [
+        {
+          "line_id": "21282835",
+          "line_number": 20,
+          "sale_price": 21,
+          "normal_price": 21,
+          "vat_amt": 1.25,
+          "item_discount_amt": 1.87,
+          "redeem_amt": 0,
+          "net_amt": 17.88,
+          "discounts": [
+            {
+              "rule_id": 432805,
+              "rule_priority": 0,
+              "discount_amt": 1.87,
+              "vat_amt": 0.12,
+              "net_amt": 1.75
+            }
+          ]
+        },
+        {
+          "line_id": "21282835",
+          "line_number": 21,
+          "sale_price": 21,
+          "normal_price": 21,
+          "vat_amt": 1.25,
+          "item_discount_amt": 1.87,
+          "redeem_amt": 0,
+          "net_amt": 17.88,
+          "discounts": [
+            {
+              "rule_id": 432805,
+              "rule_priority": 0,
+              "discount_amt": 1.87,
+              "vat_amt": 0.12,
+              "net_amt": 1.75
+            }
+          ]
+        },
+        {
+          "line_id": "21282835",
+          "line_number": 22,
+          "sale_price": 21,
+          "normal_price": 21,
+          "vat_amt": 1.25,
+          "item_discount_amt": 1.87,
+          "redeem_amt": 0,
+          "net_amt": 17.88,
+          "discounts": [
+            {
+              "rule_id": 432805,
+              "rule_priority": 0,
+              "discount_amt": 1.87,
+              "vat_amt": 0.12,
+              "net_amt": 1.75
+            }
+          ]
+        },
+        {
+          "line_id": "21282835",
+          "line_number": 23,
+          "sale_price": 21,
+          "normal_price": 21,
+          "vat_amt": 1.25,
+          "item_discount_amt": 1.85,
+          "redeem_amt": 0,
+          "net_amt": 17.9,
+          "discounts": [
+            {
+              "rule_id": 432805,
+              "rule_priority": 0,
+              "discount_amt": 1.85,
+              "vat_amt": 0.13,
+              "net_amt": 1.72
             }
           ]
         }
@@ -2147,7 +791,114 @@
         "qty_pack": 0,
         "product_status": "A",
         "exclusive_flag": false,
-        "brand_code": "00838",
+        "brand_code": "00327",
+        "is_weight_item": false
+      }
+    },
+    {
+      "market_unit_th": "",
+      "market_unit_en": "",
+      "sku": "8850002012509",
+      "is_exclude": false,
+      "short_name_en": "Lipon Lemon Dish Wash Liquid Lemon Tea 500ml.",
+      "short_name_th": "ไลปอนเลมอนน้ำยาล้างจานกลิ่นชามะนาว 500มล.",
+      "is_vat": true,
+      "qty_unit_th": "ชิ้น",
+      "qty_unit_en": "pcs",
+      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850002012509_1_1.jpg",
+      "full_price": 19.5,
+      "vat_rate": 7,
+      "lines": [
+        {
+          "line_id": "21282836",
+          "line_number": 24,
+          "sale_price": 15,
+          "normal_price": 19.5,
+          "vat_amt": 0.89,
+          "item_discount_amt": 1.33,
+          "redeem_amt": 0,
+          "net_amt": 12.78,
+          "discounts": [
+            {
+              "rule_id": 432805,
+              "rule_priority": 0,
+              "discount_amt": 1.33,
+              "vat_amt": 0.08,
+              "net_amt": 1.25
+            }
+          ]
+        },
+        {
+          "line_id": "21282836",
+          "line_number": 25,
+          "sale_price": 15,
+          "normal_price": 19.5,
+          "vat_amt": 0.89,
+          "item_discount_amt": 1.33,
+          "redeem_amt": 0,
+          "net_amt": 12.78,
+          "discounts": [
+            {
+              "rule_id": 432805,
+              "rule_priority": 0,
+              "discount_amt": 1.33,
+              "vat_amt": 0.09,
+              "net_amt": 1.24
+            }
+          ]
+        }
+      ],
+      "extension_attributes": {
+        "is_pack": false,
+        "qty_pack": 0,
+        "product_status": "A",
+        "exclusive_flag": false,
+        "brand_code": "01317",
+        "is_weight_item": false,
+        "promotion_code": "2100042656",
+        "promotion_type": "sale"
+      }
+    },
+    {
+      "market_unit_th": "",
+      "market_unit_en": "",
+      "sku": "8850007811176",
+      "is_exclude": false,
+      "short_name_en": "Listerine Original Mouthwash 750ml.",
+      "short_name_th": "ลิสเตอรีนน้ำยาบ้วนปากดั้งเดิม 750มล.",
+      "is_vat": true,
+      "qty_unit_th": "ขวด",
+      "qty_unit_en": "btls",
+      "image_url": "https://backend.tops.co.th/media/catalog/product//8/8/8850007811176_e22-7-2019.jpg",
+      "full_price": 164,
+      "vat_rate": 7,
+      "lines": [
+        {
+          "line_id": "21282837",
+          "line_number": 26,
+          "sale_price": 164,
+          "normal_price": 164,
+          "vat_amt": 9.78,
+          "item_discount_amt": 14.55,
+          "redeem_amt": 0,
+          "net_amt": 139.67,
+          "discounts": [
+            {
+              "rule_id": 432805,
+              "rule_priority": 0,
+              "discount_amt": 14.55,
+              "vat_amt": 0.95,
+              "net_amt": 13.6
+            }
+          ]
+        }
+      ],
+      "extension_attributes": {
+        "is_pack": false,
+        "qty_pack": 0,
+        "product_status": "A",
+        "exclusive_flag": false,
+        "brand_code": "01322",
         "is_weight_item": false
       }
     }
@@ -2155,47 +906,47 @@
   "is_seasonal": false,
   "seasonal_name": "",
   "seasonal_code": "",
-  "order_id": "CW031210600446",
-  "order_date": "2021-06-05T00:38:30+00:00",
+  "order_id": "MQ419210600403",
+  "order_date": "2021-06-05T05:03:54+00:00",
   "ship_to_branch_code": "",
   "t1c": {
     "redeem": null,
     "earn": {
-      "card_no": "",
-      "t1c_phone": "0636942951"
+      "card_no": "8016459263",
+      "t1c_phone": "0986898511"
     }
   },
-  "customer_id": "1208095",
+  "customer_id": "81664",
   "customer": {
-    "first_name": "Anchanee",
+    "first_name": "วันวิสาข์",
     "middle_name": "",
-    "last_name": "-"
+    "last_name": "บุศย์ประยูร"
   },
   "store_pickup": null,
   "delivery": {
     "item_delivery_fee": 0,
-    "order_delivery_fee": 0,
+    "order_delivery_fee": 100,
     "extension_attributes": {
-      "barcode": "0000000000000"
+      "barcode": "0000048400183"
     }
   },
   "request_delivery": {
-    "date": "2021-06-05",
-    "time_from": "16:00",
-    "time_to": "18:00"
+    "date": "2021-06-06",
+    "time_from": "10:00",
+    "time_to": "12:00"
   },
   "store_language": "TH",
   "e_order": null,
   "rules": [
     {
-      "rule_id": "438342",
+      "rule_id": "432805",
       "sale_rule_priority": 1000,
-      "rule_name": "2121732120626",
+      "rule_name": "2558662005496",
       "promotion_type": "CPN2",
       "coupon_code": null,
-      "promotion_code": "2121732120626",
+      "promotion_code": "2558662005496",
       "discount_type": "Fixed",
-      "discount_amount": 150,
+      "discount_amount": 200,
       "tender_name": "",
       "description": "CPN2",
       "absorb_by": "",
@@ -2203,106 +954,16 @@
       "extra": null
     },
     {
-      "rule_id": "448597",
+      "rule_id": "448572",
       "sale_rule_priority": 0,
-      "rule_name": "1300054643",
-      "promotion_type": "BOGO",
+      "rule_name": "1600005754",
+      "promotion_type": "B3G1",
       "coupon_code": null,
-      "promotion_code": "1300054643",
+      "promotion_code": "1600005754",
       "discount_type": "Percent",
       "discount_amount": 100,
       "tender_name": "",
-      "description": "BOGO",
-      "absorb_by": "",
-      "absorb_type": "",
-      "extra": null
-    },
-    {
-      "rule_id": "448613",
-      "sale_rule_priority": 0,
-      "rule_name": "1100084059",
-      "promotion_type": "B2G1",
-      "coupon_code": null,
-      "promotion_code": "1100084059",
-      "discount_type": "Percent",
-      "discount_amount": 100,
-      "tender_name": "",
-      "description": "B2G1",
-      "absorb_by": "",
-      "absorb_type": "",
-      "extra": null
-    },
-    {
-      "rule_id": "448616",
-      "sale_rule_priority": 0,
-      "rule_name": "1100084238",
-      "promotion_type": "BOGO",
-      "coupon_code": null,
-      "promotion_code": "1100084238",
-      "discount_type": "Percent",
-      "discount_amount": 100,
-      "tender_name": "",
-      "description": "BOGO",
-      "absorb_by": "",
-      "absorb_type": "",
-      "extra": null
-    },
-    {
-      "rule_id": "448671",
-      "sale_rule_priority": 0,
-      "rule_name": "2100042729",
-      "promotion_type": "BOGO",
-      "coupon_code": null,
-      "promotion_code": "2100042729",
-      "discount_type": "Percent",
-      "discount_amount": 100,
-      "tender_name": "",
-      "description": "BOGO",
-      "absorb_by": "",
-      "absorb_type": "",
-      "extra": null
-    },
-    {
-      "rule_id": "448973",
-      "sale_rule_priority": 0,
-      "rule_name": "1600005753",
-      "promotion_type": "B1GV",
-      "coupon_code": null,
-      "promotion_code": "1600005753",
-      "discount_type": "Fixed",
-      "discount_amount": 38,
-      "tender_name": "",
-      "description": "B1GV",
-      "absorb_by": "",
-      "absorb_type": "",
-      "extra": null
-    },
-    {
-      "rule_id": "449025",
-      "sale_rule_priority": 0,
-      "rule_name": "1100084231",
-      "promotion_type": "B1GV",
-      "coupon_code": null,
-      "promotion_code": "1100084231",
-      "discount_type": "Fixed",
-      "discount_amount": 10,
-      "tender_name": "",
-      "description": "B1GV",
-      "absorb_by": "",
-      "absorb_type": "",
-      "extra": null
-    },
-    {
-      "rule_id": "449031",
-      "sale_rule_priority": 0,
-      "rule_name": "1100084153",
-      "promotion_type": "B1GV",
-      "coupon_code": null,
-      "promotion_code": "1100084153",
-      "discount_type": "Fixed",
-      "discount_amount": 10,
-      "tender_name": "",
-      "description": "B1GV",
+      "description": "B3G1",
       "absorb_by": "",
       "absorb_type": "",
       "extra": null
