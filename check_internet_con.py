@@ -12,8 +12,11 @@ except ImportError:
 def checkInternetConnectivity():
     try:
         url = argv[1]
-        if "https://" or "http://" not in url:
+        print(url)
+        protocols = ["https://", "http://"]
+        if not any(x for x in protocols if x in url):
             url = "https://" + url
+        print("URL:" + url)
     except BaseException:
         url = "https://google.com"
     try:
